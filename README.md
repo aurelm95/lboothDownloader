@@ -10,4 +10,4 @@ Example:
 
     python main.py https://lbooth.com/W4VgZQNQMTP .
 
-Will create a folder inside the specified path and will save the iamges and videos
+Will create a folder inside the specified path and will save the images and videos

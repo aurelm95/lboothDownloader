@@ -1,5 +1,4 @@
 import os
-import time
 
 import requests
 from bs4 import BeautifulSoup
@@ -44,8 +43,6 @@ def request_and_save_content_as_file(url, file_path):
         None
     """
     # print(f"Saving content from {url} to {file_path}")
-    time.sleep(1)
-    return
 
     response = requests.get(url)
 
